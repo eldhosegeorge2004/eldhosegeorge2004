@@ -1,8 +1,3 @@
-Got it! I have injected your LinkedIn URL right into the social links perfectly. 
-
-Here is the final, fully-updated code ready for you to copy and paste! 👾 (If you want to add your email later, just search for `your.email@example.com` in the code and swap it out).
-
-```html
 <!-- 
 ============================================================
  THE PINNACLE OF AWESOME: MASTER TIER PIXEL ART README 
@@ -11,7 +6,7 @@ Here is the final, fully-updated code ready for you to copy and paste! 👾 (If 
 Instructions:
 1. Open your 'eldhosegeorge2004' repository.
 2. Edit the README.md file and paste this entire code inside.
-3. Replace the 'your.email@example.com' tag with your actual email string.
+3. Replace the 'your.email@example.com' and 'your-linkedin' tags with your info.
 4. Commit the changes. Prepare to have your mind blown.
 -->
 
@@ -128,7 +123,7 @@ Instructions:
 
 <div align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=green" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eldhosegeorge2004/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=green" target="_blank"></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=green" target="_blank"></a>
 </div>
 
 <p align="center">
@@ -142,4 +137,3 @@ Instructions:
   <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&pause=2000&color=00FF00&center=true&vCenter=true&width=800&lines=GAME_OVER..._INSERT_COIN_TO_CONTINUE...&color=ffffff" />
 </div>
-```
